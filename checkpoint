@@ -1,2 +1,2 @@
-model_checkpoint_path: "Thomasnet"
-all_model_checkpoint_paths: "Thomasnet"
+model_checkpoint_path: "Thomasnet.ckpt"
+all_model_checkpoint_paths: "Thomasnet.ckpt"
